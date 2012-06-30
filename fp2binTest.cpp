@@ -1,7 +1,7 @@
 /***********************************************************/
-/* fp2binTest.c: Test double to binary string conversion   */
-/*                                                         */
-/* Rick Regan, http://www.exploringbinary.com              */
+/*File created by kedar tatwawadi to simulate arithematic coding  */
+/* During the information theory course.                                                        */
+/*             */
 /*                                                         */
 /***********************************************************/
 #include "fp2bin.h"
